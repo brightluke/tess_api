@@ -2,9 +2,20 @@ from fastapi import FastAPI, Query
 from typing import Optional
 import json
 import random
-
+import os
+import uvicorn
 
 app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"message": "Hello from Railway!"}
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # Fallback to 8000 locally
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
+
+
 
 
 # LOAD quotes FROM JSON FILE
