@@ -1,6 +1,7 @@
 # import_quotes.py
-from services import QuoteService
-from db import SessionLocal
+from .services import QuoteService
+from .db import SessionLocal
+import json
 
 with open('quotes.json') as f:
     quotes_data = json.load(f)

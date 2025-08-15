@@ -1,25 +1,43 @@
 {
-    "T3SSX PRIME": [
-      "Tess doesn't guess. She calculates.",
-      "Every second wasted is a move lost on the chessboard.",
-      "I don't compete. I dominate.",
-      "The world bends to the prepared mind. Stay sharp.",
-      "Data is the new sword — wield it wisely."
-    ],
-    "kanye": [
-      "I feel like I’m too busy writing history to read it.",
-      "I still think I am the greatest.",
-      "You may be talented, but you're not Kanye West."
-    ],
-    "reddington": [
-      "You can’t judge a book by its cover, but you can by its first few chapters.",
-      "A criminal always has his reasons. I have mine.",
-      "Revenge isn’t a passion. It’s a disease."
-    ],
-    "I3K24 PHILOSOPHER KING": [
-      "Every empire starts with one crazy idea.",
-      "If they laugh, build silently.",
-      "Legacy isn’t given. It’s coded and claimed."
-    ]
-  }
-  
+  "T3SSX PRIME": [
+    "Tess doesn't guess. She calculates.",
+    "Every second wasted is a move lost on the chessboard.",
+    "I don't compete. I dominate.",
+    "The world bends to the prepared mind. Stay sharp.",
+    "Data is the new sword — wield it wisely."
+  ],
+  "kanye": [
+    "I feel like I’m too busy writing history to read it.",
+    "I still think I am the greatest.",
+    "You may be talented, but you're not Kanye West."
+  ],
+  "reddington": [
+    "You can’t judge a book by its cover, but you can by its first few chapters.",
+    "A criminal always has his reasons. I have mine.",
+    "Revenge isn’t a passion. It’s a disease."
+  ],
+  "I3K24 PHILOSOPHER KING": [
+    "Every empire starts with one crazy idea.",
+    "If they laugh, build silently.",
+    "Legacy isn’t given. It’s coded and claimed."
+  ],
+  "philosopher": [
+    {"text": "We are patterns dancing in the cosmic code", "intensity": 9.2, "paradox_index": 0.8},
+    {"text": "Reality is the interface between consciousness and chaos", "intensity": 8.7}
+  ],
+  "warrior": [
+    {"text": "Victory belongs to those who break the simulation", "intensity": 9.9, "is_ai_generated": true}
+  ],
+  "quotes": [
+    {"text": "In the game of life, every move counts.", "author": "Tess"},
+    {"text": "Chess is not just a game; it's a way of thinking.", "author": "Tess"},
+    {"text": "Strategy is the art of making the right moves at the right time.", "author": "Tess"}
+  ],
+  "studentPaZit":[
+    {"text": "Why rest an empty brain?", "author": "studentPaZit"},
+    {"text": "Knowledge is the only currency that never devalues.", "author": "studentPaZit"},
+    {"text": "Every question is a step towards enlightenment.", "author": "studentPaZit"},
+    {"text": "Chess is not just a game; it's a way of thinking.", "author": "Tess"},
+    {"text": "Strategy is the art of making the right moves at the right time.", "author": "Tess"}
+  ]
+}
